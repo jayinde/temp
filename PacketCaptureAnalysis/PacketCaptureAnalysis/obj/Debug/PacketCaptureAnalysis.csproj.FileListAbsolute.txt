@@ -1,0 +1,6 @@
+C:\website\PacketCaptureAnalysis\PacketCaptureAnalysis\bin\Debug\PacketCaptureAnalysis.exe.config
+C:\website\PacketCaptureAnalysis\PacketCaptureAnalysis\bin\Debug\PacketCaptureAnalysis.exe
+C:\website\PacketCaptureAnalysis\PacketCaptureAnalysis\bin\Debug\PacketCaptureAnalysis.pdb
+C:\website\PacketCaptureAnalysis\PacketCaptureAnalysis\obj\Debug\PacketCaptureAnalysis.csprojResolveAssemblyReference.cache
+C:\website\PacketCaptureAnalysis\PacketCaptureAnalysis\obj\Debug\PacketCaptureAnalysis.exe
+C:\website\PacketCaptureAnalysis\PacketCaptureAnalysis\obj\Debug\PacketCaptureAnalysis.pdb
